@@ -22,3 +22,8 @@
   <a href="https://www.linkedin.com/in/neemiasmanso" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/lele_mias" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
+
+### Meus melhores projetos:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=n33miaz&repo=YT_em_Poucas_Palavras&show_owner=true&theme=dark#gh-dark-mode-only)](https://github.com/n33miaz/YT_em_Poucas_Palavras)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=n33miaz&repo=Cadastro-de-Produtos&show_owner=true&theme=dark#gh-dark-mode-only)](https://github.com/n33miaz/Cadastro-de-Produtos)
