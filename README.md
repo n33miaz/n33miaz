@@ -22,21 +22,16 @@ Um estudante e sonhador nesse universo de programação.
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
 
-
 ### 🔭 GitHub Stats
 <div>
- <img height="150em" src="https://github-readme-stats.vercel.app/api?username=n33miaz&rank_icon=github&show_icons=true&theme=dark#gh-dark-mode-only&include_all_commits=true&count_private=true"/>
- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n33miaz&hide_progress=true&langs_count=6&theme=dark#gh-dark-mode-only"/>
+ <img height="170em" src="https://github-readme-stats.vercel.app/api?username=n33miaz&rank_icon=github&show_icons=true&theme=dark#gh-dark-mode-only&include_all_commits=true&count_private=true"/>
+ <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n33miaz&hide_progress=true&langs_count=6&theme=dark#gh-dark-mode-only"/>
 </div>
-<div>
- <img height="270em" src="https://streak-stats.demolab.com/?user=n33miaz&theme=dark#gh-dark-mode-only"/>
-</div>
-
 
 ### 👾 Meus Principais Projetos
 <div>
- <img height="102px" src="https://github-readme-stats.vercel.app/api/pin/?username=n33miaz&repo=YT_em_Poucas_Palavras&show_owner=true&theme=dark#gh-dark-mode-only"/>
- <img height="102px" src="https://github-readme-stats.vercel.app/api/pin/?username=n33miaz&repo=Gataiada-Leitura&show_owner=true&theme=dark#gh-dark-mode-only"/>
+ <img height="116px" src="https://github-readme-stats.vercel.app/api/pin/?username=n33miaz&repo=YT_em_Poucas_Palavras&show_owner=true&theme=dark#gh-dark-mode-only"/>
+ <img height="116px" src="https://github-readme-stats.vercel.app/api/pin/?username=n33miaz&repo=Gataiada-Leitura&show_owner=true&theme=dark#gh-dark-mode-only"/>
 </div>
 
 ---
