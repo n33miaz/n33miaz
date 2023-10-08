@@ -1,4 +1,4 @@
-Olá pessoal 👋, eu sou:
+Olá pessoal 👋, eu sou
 
 # Neemias Cormino Manso
 Um estudante e sonhador nesse universo de programação.
@@ -36,7 +36,7 @@ Um estudante e sonhador nesse universo de programação.
 ### 👾 Meus Principais Projetos
 <div>
  <img height="102px" src="https://github-readme-stats.vercel.app/api/pin/?username=n33miaz&repo=YT_em_Poucas_Palavras&show_owner=true&theme=dark#gh-dark-mode-only"/>
- <img height="102px" src="https://github-readme-stats.vercel.app/api/pin/?username=n33miaz&repo=Cadastro-de-Produtos&show_owner=true&theme=dark#gh-dark-mode-only"/>
+ <img height="102px" src="https://github-readme-stats.vercel.app/api/pin/?username=n33miaz&repo=Gataiada-Leitura&show_owner=true&theme=dark#gh-dark-mode-only"/>
 </div>
 
 ---
