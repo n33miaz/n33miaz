@@ -24,14 +24,13 @@ Um estudante e sonhador nesse universo de programação.
 
 ### 🔭 GitHub Stats
 <div>
- <img height="170em" src="https://github-readme-stats.vercel.app/api?username=n33miaz&rank_icon=github&show_icons=true&theme=dark#gh-dark-mode-only&include_all_commits=true&count_private=true"/>
- <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n33miaz&hide_progress=true&langs_count=6&theme=dark#gh-dark-mode-only"/>
+ <img height="176em" src="https://github-readme-stats.vercel.app/api?username=n33miaz&rank_icon=github&show_icons=true&theme=dark#gh-dark-mode-only&include_all_commits=true&count_private=true"/>
+ <img height="176em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n33miaz&hide_progress=true&langs_count=6&theme=dark#gh-dark-mode-only"/>
 </div>
 
 ### 👾 Meus Principais Projetos
-<div>
- <img height="116px" src="https://github-readme-stats.vercel.app/api/pin/?username=n33miaz&repo=YT_em_Poucas_Palavras&show_owner=true&theme=dark#gh-dark-mode-only"/>
- <img height="116px" src="https://github-readme-stats.vercel.app/api/pin/?username=n33miaz&repo=Gataiada-Leitura&show_owner=true&theme=dark#gh-dark-mode-only"/>
-</div>
+
+[![Card](https://github-readme-stats.vercel.app/api/pin/?username=n33miaz&repo=YT_em_Poucas_Palavras&theme=dark#gh-dark-mode-only)](https://github.com/n33miaz/YT_em_Poucas_Palavras)
+[![Card](https://github-readme-stats.vercel.app/api/pin/?username=n33miaz&repo=Gataiada-Leitura&theme=dark#gh-dark-mode-only)](https://github.com/n33miaz/Gataiada-Leitura)
 
 ---
