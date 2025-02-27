@@ -27,7 +27,7 @@ Um estudante e sonhador nesse universo de programação.
 
 ### 👾 Meus Principais Projetos
 
+[![Card](https://github-readme-stats.vercel.app/api/pin/?username=n33miaz&repo=code50-public&theme=dark#gh-dark-mode-only)](https://github.com/n33miaz/code50-public)
 [![Card](https://github-readme-stats.vercel.app/api/pin/?username=n33miaz&repo=carnahall_event_backend&theme=dark#gh-dark-mode-only)](https://github.com/n33miaz/carnahall_event_backend)
-[![Card](https://github-readme-stats.vercel.app/api/pin/?username=n33miaz&repo=Gataiada-Leitura&theme=dark#gh-dark-mode-only)](https://github.com/n33miaz/Gataiada-Leitura)
 
 ---
