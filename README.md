@@ -1,9 +1,9 @@
-### Conecte-se comigo
+### Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/neemiasmanso/)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=E94D5F)](mailto:ncormino@gmail.com)
 
-### 🛠 Tecnologias e Ferramentas
+### 🛠 Technologies and Tools
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=3178C6)
@@ -33,7 +33,7 @@
  <img height="176em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n33miaz&hide_progress=true&langs_count=6&theme=dark#gh-dark-mode-only"/>
 </div>
 
-### 👾 Meus Principais Projetos
+### 👾 My Main Projects
 
 [![Card](https://github-readme-stats.vercel.app/api/pin/?username=n33miaz&repo=code50-public&theme=gotham#gh-dark-mode-only)](https://github.com/n33miaz/code50-public)
 [![Card](https://github-readme-stats.vercel.app/api/pin/?username=n33miaz&repo=carnahall_event_backend&theme=gotham#gh-dark-mode-only)](https://github.com/n33miaz/carnahall_event_backend)
