@@ -1,8 +1,7 @@
 ### Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/neemiasmanso/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/neemiasmanso/)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=E94D5F)](mailto:ncormino@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/lele_mias/)
 
 ### 🛠 Tecnologias e Ferramentas
 
@@ -18,7 +17,6 @@
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=336791)
 ![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![Prisma](https://img.shields.io/badge/Prisma-000?style=for-the-badge&logo=prisma&logoColor=2D3748)
 
 ![Linux](https://img.shields.io/badge/linux-000?style=for-the-badge&logo=linux&logoColor=FFF)
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=FFA500)
@@ -27,6 +25,7 @@
 ![Render](https://img.shields.io/badge/Render-000?style=for-the-badge&logo=render&logoColor=46E3B7)
 ![Upstash](https://img.shields.io/badge/Upstash-000?style=for-the-badge&logo=upstash&logoColor=43C78F)
 ![Neon](https://img.shields.io/badge/Neon-000?style=for-the-badge&logo=neon&logoColor=00FFFF)
+[![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma&logoColor=F24E1E)](https://www.figma.com)
 
 ### 🔭 GitHub Stats
 <div>
