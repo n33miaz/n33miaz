@@ -39,14 +39,11 @@
 <!-- graficos -->
 <table width="100%" align="center" cellpadding="8" cellspacing="0">
   <tr width="100%">
-    <td width="50%" align="center">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=n33miaz&show_icons=true&count_private=true&hide_border=true&title_color=762075&icon_color=762075&text_color=c9d1d9&bg_color=0d1117" />
-    </td>
-    <td width="50%" align="center">
-      <img width="88%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n33miaz&layout=compact&hide_border=true&title_color=762075&text_color=c9d1d9&bg_color=0d1117&hide_progress=true" />
+    <td colspan="2" align="center">
+      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=n33miaz&bg_color=0d1117&color=c9d1d9&line=762075&point=762075&area=true&hide_border=true&border_radius=10" />
     </td>
   </tr>
-
+  
   <tr width="100%">
     <td width="50%" align="center">
       <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=n33miaz&theme=tokyonight&hide_border=true&background=0D1117&stroke=762075&ring=762075&fire=762075&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" />
@@ -57,8 +54,11 @@
   </tr>
 
   <tr width="100%">
-    <td colspan="2" align="center">
-      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=n33miaz&bg_color=0d1117&color=c9d1d9&line=762075&point=762075&area=true&hide_border=true&border_radius=10" />
+    <td width="50%" align="center">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=n33miaz&show_icons=true&count_private=true&hide_border=true&title_color=762075&icon_color=762075&text_color=c9d1d9&bg_color=0d1117" />
+    </td>
+    <td width="50%" align="center">
+      <img width="88%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n33miaz&layout=compact&hide_border=true&title_color=762075&text_color=c9d1d9&bg_color=0d1117&hide_progress=true" />
     </td>
   </tr>
 </table>
