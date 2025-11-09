@@ -31,15 +31,9 @@
 
 <!-- contatos -->
 <div align="center">
-    <a href="https://n33miaz.github.io/n33miaz-links/redirect.html#linkedin" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="mailto:ncormino@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-    <a href="https://n33miaz.github.io/n33miaz-links/redirect.html#instagram" target="_blank">
-      <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-    </a>
+    <a href="https://raw.githack.com/n33miaz/n33miaz-links/main/redirect.html#linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+    <a href="mailto:ncormino@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
+    <a href="https://raw.githack.com/n33miaz/n33miaz-links/main/redirect.html#instagram" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </div>
 
 <br>
@@ -72,7 +66,7 @@
 </table>
 
 <div align="center">
-  <a href="https://n33miaz.github.io/n33miaz-links/redirect.html#wakatime" target="_blank">
+  <a href="https://raw.githack.com/n33miaz/n33miaz-links/main/redirect.html#wakatime" target="_blank">
     <img src="https://wakatime.com/badge/user/018b2ed2-a72b-4f7e-98dd-4419a5a7222a.svg?style=for-the-badge&color=762075" />
   </a>
 </div>
@@ -85,6 +79,7 @@
     <img src="https://raw.githubusercontent.com/n33miaz/n33miaz/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
+&nbsp;
 
 <!-- ferramentas -->
 <div align="center">
