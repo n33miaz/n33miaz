@@ -27,6 +27,8 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=762075&size=35&center=true&vCenter=true&width=1000&lines=Hey,+my+name+is+Neemias,+how+are+you?;Olá,+me+chamo+Neemias,+tudo+tranquilo?;I'm+a+Systems+Development+technician;Sou+técnico+em+Desenvolvimento+de+Sistemas;Currently+working+as+a+Junior+Dev;Atualmente+trabalhando+como+Dev+Júnior;" />
 </a>
 
+<br>
+
 <!-- contatos -->
 <div align="center">
     <a href="https://www.linkedin.com/in/neemiasmanso/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -62,6 +64,10 @@
     </td>
   </tr>
 </table>
+
+<div align="center">
+  <img src="https://wakatime.com/badge/user/018b2ed2-a72b-4f7e-98dd-4419a5a7222a.svg?style=for-the-badge&color=762075" />
+</div>
 
 <!-- animação cobrinha -->
 <div align="center">
