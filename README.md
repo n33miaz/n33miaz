@@ -31,9 +31,15 @@
 
 <!-- contatos -->
 <div align="center">
-    <a href="https://www.linkedin.com/in/neemiasmanso/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:ncormino@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://www.instagram.com/lele_mias/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+    <a href="https://n33miaz.github.io/n33miaz-links/redirect.html#linkedin" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:ncormino@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://n33miaz.github.io/n33miaz-links/redirect.html#instagram" target="_blank">
+      <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    </a>
 </div>
 
 <br>
@@ -66,7 +72,9 @@
 </table>
 
 <div align="center">
-  <a href="https://wakatime.com/@n33miaz" target="_blank"><img src="https://wakatime.com/badge/user/018b2ed2-a72b-4f7e-98dd-4419a5a7222a.svg?style=for-the-badge&color=762075" /><a/>
+  <a href="https://n33miaz.github.io/n33miaz-links/redirect.html#wakatime" target="_blank">
+    <img src="https://wakatime.com/badge/user/018b2ed2-a72b-4f7e-98dd-4419a5a7222a.svg?style=for-the-badge&color=762075" />
+  </a>
 </div>
 
 <!-- animação cobrinha -->
