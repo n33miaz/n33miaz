@@ -66,7 +66,7 @@
 </table>
 
 <div align="center">
-  <img src="https://wakatime.com/badge/user/018b2ed2-a72b-4f7e-98dd-4419a5a7222a.svg?style=for-the-badge&color=762075" />
+  <a href="https://wakatime.com/@n33miaz" target="_blank"><img src="https://wakatime.com/badge/user/018b2ed2-a72b-4f7e-98dd-4419a5a7222a.svg?style=for-the-badge&color=762075" /><a/>
 </div>
 
 <!-- animação cobrinha -->
