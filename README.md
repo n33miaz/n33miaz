@@ -24,7 +24,7 @@
 
 <!-- animação de texto -->
 <a href="https://github.com/n33miaz">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=762075&size=35&center=true&vCenter=true&width=1000&lines=Hey,+my+name+is+Neemias,+how+are+you?;Olá,+me+chamo+Neemias,+tudo+tranquilo?;I'm+a+Systems+Development+technician;Sou+técnico+em+Desenvolvimento+de+Sistemas;Currently+working+as+a+Junior+Dev;Atualmente+trabalhando+como+Dev+Júnior;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=762075&size=35&center=true&vCenter=true&width=1000&lines=Olá,+me+chamo+Neemias,+tudo+tranquilo?;Hey,+my+name+is+Neemias,+how+are+you?;Trabalho+como+Desenvolvedor+Junior;Work+as+Junior+Developer;" />
 </a>
 
 <br>
@@ -48,19 +48,19 @@
   
   <tr width="100%">
     <td width="50%" align="center">
-      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=n33miaz&theme=tokyonight&hide_border=true&background=0D1117&stroke=762075&ring=762075&fire=762075&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" />
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=n33miaz&show_icons=true&count_private=true&hide_border=true&title_color=762075&icon_color=762075&text_color=c9d1d9&bg_color=0d1117" />
     </td>
     <td width="50%" align="center">
-      <img width="80%" src="https://github-profile-trophy.vercel.app/?username=n33miaz&theme=dracula&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4&row=2" />
+      <img width="88%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n33miaz&layout=compact&hide_border=true&title_color=762075&text_color=c9d1d9&bg_color=0d1117&hide_progress=true" />
     </td>
   </tr>
 
   <tr width="100%">
     <td width="50%" align="center">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=n33miaz&show_icons=true&count_private=true&hide_border=true&title_color=762075&icon_color=762075&text_color=c9d1d9&bg_color=0d1117" />
+      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=n33miaz&theme=tokyonight&hide_border=true&background=0D1117&stroke=762075&ring=762075&fire=762075&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" />
     </td>
     <td width="50%" align="center">
-      <img width="88%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n33miaz&layout=compact&hide_border=true&title_color=762075&text_color=c9d1d9&bg_color=0d1117&hide_progress=true" />
+      <img width="80%" src="https://github-profile-trophy.vercel.app/?username=n33miaz&theme=dracula&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4&row=2" />
     </td>
   </tr>
 </table>
@@ -105,22 +105,20 @@
 <!-- projetos principais -->
 <table width="100%" align="center" cellpadding="8" cellspacing="0">
   <tr>
-    <td width="50%" align="center">
+    <td width="33.3%" align="center">
       <a href="https://github.com/TCC-DS-2025/lumilivre-web">
         <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=TCC-DS-2025&repo=lumilivre-web&hide_border=true&title_color=762075&icon_color=762075&text_color=c9d1d9&bg_color=0d1117" />
       </a>
     </td>
-    <td width="50%" align="center">
+    <td width="33.3%" align="center">
       <a href="https://github.com/TCC-DS-2025/lumilivre-mobile">
         <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=TCC-DS-2025&repo=lumilivre-mobile&hide_border=true&title_color=762075&icon_color=762075&text_color=c9d1d9&bg_color=0d1117" />
       </a>
     </td>
-  <!-- </tr>
-  <tr>
-    <td colspan="2" align="center">
+    <td width="33.3%" align="center">
       <a href="https://github.com/TCC-DS-2025/lumilivre">
         <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=TCC-DS-2025&repo=lumilivre&hide_border=true&title_color=762075&icon_color=762075&text_color=c9d1d9&bg_color=0d1117" />
       </a>
     </td>
-  </tr> -->
+  </tr>
 </table>
