@@ -107,17 +107,17 @@
   <tr>
     <td width="33.3%" align="center">
       <a href="https://github.com/TCC-DS-2025/lumilivre-web">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=TCC-DS-2025&repo=lumilivre-web&hide_border=true&title_color=762075&icon_color=762075&text_color=c9d1d9&bg_color=0d1117" />
+        <img width="100%" src="https://github-stats-api-fmwm.onrender.com/api/pin?username=n33miaz&repo=lumilivre-web&hide_border=true&title_color=762075&icon_color=762075&text_color=c9d1d9&bg_color=0d1117" />
       </a>
     </td>
     <td width="33.3%" align="center">
       <a href="https://github.com/TCC-DS-2025/lumilivre-mobile">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=TCC-DS-2025&repo=lumilivre-mobile&hide_border=true&title_color=762075&icon_color=762075&text_color=c9d1d9&bg_color=0d1117" />
+        <img width="100%" src="https://github-stats-api-fmwm.onrender.com/api/pin?username=n33miaz&repo=lumilivre-app&hide_border=true&title_color=762075&icon_color=762075&text_color=c9d1d9&bg_color=0d1117" />
       </a>
     </td>
     <td width="33.3%" align="center">
       <a href="https://github.com/TCC-DS-2025/lumilivre">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=TCC-DS-2025&repo=lumilivre&hide_border=true&title_color=762075&icon_color=762075&text_color=c9d1d9&bg_color=0d1117" />
+        <img width="100%" src="https://github-stats-api-fmwm.onrender.com/api/pin?username=n33miaz&repo=lumilivre-api&hide_border=true&title_color=762075&icon_color=762075&text_color=c9d1d9&bg_color=0d1117" />
       </a>
     </td>
   </tr>
