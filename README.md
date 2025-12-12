@@ -106,17 +106,17 @@
 <table width="100%" align="center" cellpadding="8" cellspacing="0">
   <tr>
     <td width="33.3%" align="center">
-      <a href="https://github.com/TCC-DS-2025/lumilivre-web">
+      <a href="https://github.com/n33miaz/lumilivre-web">
         <img width="100%" src="https://github-stats-api-fmwm.onrender.com/api/pin?username=n33miaz&repo=lumilivre-web&hide_border=true&title_color=762075&icon_color=762075&text_color=c9d1d9&bg_color=0d1117" />
       </a>
     </td>
     <td width="33.3%" align="center">
-      <a href="https://github.com/TCC-DS-2025/lumilivre-mobile">
+      <a href="https://github.com/n33miaz/lumilivre-app">
         <img width="100%" src="https://github-stats-api-fmwm.onrender.com/api/pin?username=n33miaz&repo=lumilivre-app&hide_border=true&title_color=762075&icon_color=762075&text_color=c9d1d9&bg_color=0d1117" />
       </a>
     </td>
     <td width="33.3%" align="center">
-      <a href="https://github.com/TCC-DS-2025/lumilivre">
+      <a href="https://github.com/n33miaz/lumilivre-api">
         <img width="100%" src="https://github-stats-api-fmwm.onrender.com/api/pin?username=n33miaz&repo=lumilivre-api&hide_border=true&title_color=762075&icon_color=762075&text_color=c9d1d9&bg_color=0d1117" />
       </a>
     </td>
