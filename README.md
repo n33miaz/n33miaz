@@ -47,7 +47,7 @@
 <table width="100%" align="center" cellpadding="8" cellspacing="0">
   <tr width="100%">
     <td width="50%" align="center">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=n33miaz&show_icons=true&count_private=true&hide_border=true&title_color=762075&icon_color=762075&text_color=c9d1d9&bg_color=0d1117" />
+      <img width="100%" src="https://github-stats-api-fmwm.onrender.com/api/stats?username=n33miaz&bg_color=0d1117&title_color=762075&text_color=c9d1d9&icon_color=762075&hide_border=true" />
     </td>
     <td width="50%" align="center">
       <img width="88%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n33miaz&layout=compact&hide_border=true&title_color=762075&text_color=c9d1d9&bg_color=0d1117&hide_progress=true" />
