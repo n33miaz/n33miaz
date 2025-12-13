@@ -38,25 +38,25 @@
 
 <br>
 
-<!-- gráfico de commits e tempo codando -->
+<!-- gráfico commits + tempo -->
 <a href="https://raw.githack.com/n33miaz/n33miaz-links/main/redirect.html#wakatime" target="_blank">
   <img width="100%" src="https://github-stats-api-fmwm.onrender.com/api/graph?username=n33miaz&bg_color=0d1117&title_color=762075&text_color=c9d1d9&icon_color=762075&hide_border=true" />
 </a>
 
-<!-- graficos -->
+<!-- indicadores cards -->
 <table width="100%" align="center" cellpadding="8" cellspacing="0">
   <tr width="100%">
     <td width="50%" align="center">
       <img width="100%" src="https://github-stats-api-fmwm.onrender.com/api/stats?username=n33miaz&bg_color=0d1117&title_color=762075&text_color=c9d1d9&icon_color=762075&hide_border=true" />
     </td>
     <td width="50%" align="center">
-      <img width="88%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n33miaz&layout=compact&hide_border=true&title_color=762075&text_color=c9d1d9&bg_color=0d1117&hide_progress=true" />
+      <img width="100%" src="https://github-stats-api-fmwm.onrender.com/api/streak?username=n33miaz&bg_color=0d1117&title_color=762075&text_color=c9d1d9&ring=762075&fire=762075&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&hide_border=true" />
     </td>
   </tr>
 
   <tr width="100%">
     <td width="50%" align="center">
-      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=n33miaz&theme=tokyonight&hide_border=true&background=0D1117&stroke=762075&ring=762075&fire=762075&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" />
+      <img width="88%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n33miaz&layout=compact&hide_border=true&title_color=762075&text_color=c9d1d9&bg_color=0d1117&hide_progress=true" />
     </td>
     <td width="50%" align="center">
       <img width="80%" src="https://github-profile-trophy.vercel.app/?username=n33miaz&theme=dracula&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4&row=2" />
@@ -80,7 +80,7 @@
 </div>
 &nbsp;
 
-<!-- ferramentas -->
+<!-- mais tecnologias -->
 <div align="center">
   <img src="https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/-Android%20Studio-0D1117?style=for-the-badge&logo=androidstudio&logoColor=3DDC84" />&nbsp;
@@ -101,7 +101,7 @@
 
 </div>
 
-<!-- projetos principais -->
+<!-- principais projetos -->
 <table width="100%" align="center" cellpadding="8" cellspacing="0">
   <tr>
     <td width="33.3%" align="center">
@@ -122,7 +122,7 @@
   </tr>
 </table>
 
-
+<!-- card do last.fm -->
 <a href="https://www.last.fm/user/n33miaz">
   <img width="100%" src="https://github-stats-api-fmwm.onrender.com/api/music?user=n33miaz&period=7day&hide_border=true&title_color=762075&icon_color=762075&bg_color=0d1117&text_color=c9d1d9" />
 </a>
