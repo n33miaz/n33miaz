@@ -59,16 +59,18 @@
 <!-- gráfico commits + tempo -->
 <img width="100%" src="https://github-stats-api-fmwm.onrender.com/api/graph?username=n33miaz&bg_color=0d1117&title_color=762075&text_color=c9d1d9&icon_color=762075&hide_border=true" />
 
+<!-- langs -->
+<img width="100%" src="https://github-stats-api-fmwm.onrender.com/api/langs?username=n33miaz&bg_color=0d1117&title_color=762075&text_color=c9d1d9&hide_border=true" />
 
 <!-- cards -->
 <table width="100%" align="center" cellpadding="8" cellspacing="0">
   <tr width="100%">
     <td width="50%" align="center">
-      <!-- github stats -->
+      <!-- stats -->
       <img width="100%" src="https://github-stats-api-fmwm.onrender.com/api/stats?username=n33miaz&bg_color=0d1117&title_color=762075&text_color=c9d1d9&icon_color=762075&hide_border=true" />
     </td>
     <td width="50%" align="center">
-      <!-- github streak -->
+      <!-- streak -->
       <img width="100%" src="https://github-stats-api-fmwm.onrender.com/api/streak?username=n33miaz&bg_color=0d1117&title_color=762075&text_color=c9d1d9&ring=762075&fire=762075&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&hide_border=true" />
     </td>
   </tr>
@@ -89,17 +91,17 @@
   <tr>
     <td width="33.3%" align="center">
       <a href="https://github.com/n33miaz/lumilivre-web">
-        <img width="100%" src="https://github-stats-api-fmwm.onrender.com/api/pin?username=n33miaz&repo=lumilivre-web&hide_border=true&title_color=762075&icon_color=762075&text_color=c9d1d9&bg_color=0d1117" />
+        <img width="100%" src="https://github-stats-api-fmwm.onrender.com/api/pin?username=n33miaz&repo=lumilivre-web&custom_title=WebSite&title_size=30&hide_border=true&title_color=762075&icon_color=762075&text_color=c9d1d9&bg_color=0d1117" />
       </a>
     </td>
     <td width="33.3%" align="center">
       <a href="https://github.com/n33miaz/lumilivre-app">
-        <img width="100%" src="https://github-stats-api-fmwm.onrender.com/api/pin?username=n33miaz&repo=lumilivre-app&hide_border=true&title_color=762075&icon_color=762075&text_color=c9d1d9&bg_color=0d1117" />
+        <img width="100%" src="https://github-stats-api-fmwm.onrender.com/api/pin?username=n33miaz&repo=lumilivre-app&custom_title=Application&title_size=30&hide_border=true&title_color=762075&icon_color=762075&text_color=c9d1d9&bg_color=0d1117" />
       </a>
     </td>
     <td width="33.3%" align="center">
       <a href="https://github.com/n33miaz/lumilivre-api">
-        <img width="100%" src="https://github-stats-api-fmwm.onrender.com/api/pin?username=n33miaz&repo=lumilivre-api&hide_border=true&title_color=762075&icon_color=762075&text_color=c9d1d9&bg_color=0d1117" />
+        <img width="100%" src="https://github-stats-api-fmwm.onrender.com/api/pin?username=n33miaz&repo=lumilivre-api&custom_title=API%20Restfull&title_size=30&hide_border=true&title_color=762075&icon_color=762075&text_color=c9d1d9&bg_color=0d1117" />
       </a>
     </td>
   </tr>
@@ -109,4 +111,3 @@
 <a href="https://www.last.fm/user/n33miaz">
   <img width="100%" src="https://github-stats-api-fmwm.onrender.com/api/music?user=n33miaz&period=7day&hide_border=true&title_color=762075&icon_color=762075&bg_color=0d1117&text_color=c9d1d9" />
 </a>
-
