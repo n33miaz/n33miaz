@@ -4,41 +4,19 @@
   <img src="https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00" />&nbsp;
   <img src="https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB" />&nbsp;
   <img src="https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />&nbsp;
-  <img src="https://img.shields.io/badge/-Node-0D1117?style=for-the-badge&logo=node.js&logoColor=339933" />&nbsp;
-  <img src="https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=c&logoColor=A8B9CC" />&nbsp;
+  <img src="https://img.shields.io/badge/-Dart-0D1117?style=for-the-badge&logo=dart&logoColor=A8B9CC" />&nbsp;
   <br>
   <img src="https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;
   <img src="https://img.shields.io/badge/-Spring-0D1117?style=for-the-badge&logo=spring&logoColor=6DB33F" />&nbsp;
   <img src="https://img.shields.io/badge/-Django-0D1117?style=for-the-badge&logo=django&logoColor=092E20" />&nbsp;
-  <img src="https://img.shields.io/badge/-React%20Native-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;
+  <img src="https://img.shields.io/badge/-Node-0D1117?style=for-the-badge&logo=node.js&logoColor=339933" />&nbsp;
   <img src="https://img.shields.io/badge/-Flutter-0D1117?style=for-the-badge&logo=flutter&logoColor=02569B" />&nbsp;
-  <img src="https://img.shields.io/badge/-TailwindCSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC" />&nbsp;
   <br>
   <img src="https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1" />&nbsp;
   <img src="https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1" />&nbsp;
   <img src="https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248" />&nbsp;
-  <img src="https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED" />&nbsp;
 </div>
 <br>
-
-<!-- mais tecnologias -->
-<!-- <div align="center">
-  <img src="https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/-Android%20Studio-0D1117?style=for-the-badge&logo=androidstudio&logoColor=3DDC84" />&nbsp;
-  <img src="https://img.shields.io/badge/-AWS-0D1117?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />&nbsp;
-  <img src="https://img.shields.io/badge/-Render-0D1117?style=for-the-badge&logo=render&logoColor=46E3B7" />&nbsp;
-  <img src="https://img.shields.io/badge/-Supabase-0D1117?style=for-the-badge&logo=supabase&logoColor=3ECF8E" />&nbsp;
-  <img src="https://img.shields.io/badge/-Grafana-0D1117?style=for-the-badge&logo=grafana&logoColor=F46800" />&nbsp;
-  <img src="https://img.shields.io/badge/-Zabbix-0D1117?style=for-the-badge&logo=zabbix&logoColor=D40000" />&nbsp;
-  <br>
-  <img src="https://img.shields.io/badge/-Postman-0D1117?style=for-the-badge&logo=postman&logoColor=FF6C37" />&nbsp;
-  <img src="https://img.shields.io/badge/-Insomnia-0D1117?style=for-the-badge&logo=insomnia&logoColor=4000BF" />&nbsp;
-  <img src="https://img.shields.io/badge/-DBeaver-0D1117?style=for-the-badge&logo=dbeaver&logoColor=FFFFFF" />&nbsp;
-  <img src="https://img.shields.io/badge/-MySQL%20Workbench-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1" />&nbsp;
-  <img src="https://img.shields.io/badge/-Notion-0D1117?style=for-the-badge&logo=notion&logoColor=FFFFFF" />&nbsp;
-  <img src="https://img.shields.io/badge/-Trello-0D1117?style=for-the-badge&logo=trello&logoColor=0052CC" />&nbsp;
-  <img src="https://img.shields.io/badge/-Vite-0D1117?style=for-the-badge&logo=vite&logoColor=646CFF" />&nbsp;
-</div> -->
 
 <!-- animação de texto -->
 <a href="https://github.com/n33miaz">
@@ -63,18 +41,26 @@
 <img width="100%" src="https://github-stats-api-fmwm.onrender.com/api/langs?username=n33miaz&bg_color=0d1117&title_color=762075&text_color=c9d1d9&hide_border=true" />
 
 <!-- cards -->
-<table width="100%" align="center" cellpadding="8" cellspacing="0">
-  <tr width="100%">
-    <td width="50%" align="center">
-      <!-- stats -->
-      <img width="100%" src="https://github-stats-api-fmwm.onrender.com/api/stats?username=n33miaz&bg_color=0d1117&title_color=762075&text_color=c9d1d9&icon_color=762075&hide_border=true" />
-    </td>
-    <td width="50%" align="center">
-      <!-- streak -->
-      <img width="100%" src="https://github-stats-api-fmwm.onrender.com/api/streak?username=n33miaz&bg_color=0d1117&title_color=762075&text_color=c9d1d9&ring=762075&fire=762075&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&hide_border=true" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <!-- stats -->
+  <img width="49%" src="https://github-stats-api-fmwm.onrender.com/api/stats?username=n33miaz&bg_color=0d1117&title_color=762075&text_color=c9d1d9&icon_color=762075&hide_border=true" />&nbsp;&nbsp;&nbsp; 
+  <!-- streak -->
+  <img width="49%" src="https://github-stats-api-fmwm.onrender.com/api/streak?username=n33miaz&bg_color=0d1117&title_color=762075&text_color=c9d1d9&ring=762075&fire=762075&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&hide_border=true" />
+</div>
+
+<br>
+
+<!-- ferramentas -->
+<div align="center">
+  <img src="https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED" />&nbsp;
+  <img src="https://img.shields.io/badge/-DBeaver-0D1117?style=for-the-badge&logo=dbeaver&logoColor=FFFFFF" />&nbsp;
+  <img src="https://img.shields.io/badge/-Insomnia-0D1117?style=for-the-badge&logo=insomnia&logoColor=4000BF" />&nbsp;
+  <img src="https://img.shields.io/badge/-VirtualBox-0D1117?style=for-the-badge&logo=virtualbox&logoColor=4000BF" />&nbsp;
+  <img src="https://img.shields.io/badge/-Grafana-0D1117?style=for-the-badge&logo=grafana&logoColor=F46800" />&nbsp;
+  <img src="https://img.shields.io/badge/-Zabbix-0D1117?style=for-the-badge&logo=zabbix&logoColor=D40000" />&nbsp;
+  <img src="https://img.shields.io/badge/-Prometheus-0D1117?style=for-the-badge&logo=prometheus&logoColor=D40000" />&nbsp; 
+</div>
 
 <!-- animação cobrinha -->
 <div align="center">
@@ -87,25 +73,19 @@
 &nbsp;
 
 <!-- principais projetos -->
-<table width="100%" align="center" cellpadding="8" cellspacing="0">
-  <tr>
-    <td width="33.3%" align="center">
-      <a href="https://github.com/n33miaz/lumilivre-web">
-        <img width="100%" src="https://github-stats-api-fmwm.onrender.com/api/pin?username=n33miaz&repo=lumilivre-web&custom_title=WebSite&title_size=30&hide_border=true&title_color=762075&icon_color=762075&text_color=c9d1d9&bg_color=0d1117" />
-      </a>
-    </td>
-    <td width="33.3%" align="center">
-      <a href="https://github.com/n33miaz/lumilivre-app">
-        <img width="100%" src="https://github-stats-api-fmwm.onrender.com/api/pin?username=n33miaz&repo=lumilivre-app&custom_title=Application&title_size=30&hide_border=true&title_color=762075&icon_color=762075&text_color=c9d1d9&bg_color=0d1117" />
-      </a>
-    </td>
-    <td width="33.3%" align="center">
-      <a href="https://github.com/n33miaz/lumilivre-api">
-        <img width="100%" src="https://github-stats-api-fmwm.onrender.com/api/pin?username=n33miaz&repo=lumilivre-api&custom_title=API%20Restfull&title_size=30&hide_border=true&title_color=762075&icon_color=762075&text_color=c9d1d9&bg_color=0d1117" />
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://github.com/n33miaz/lumilivre-web">
+    <img width="32%" src="https://github-stats-api-fmwm.onrender.com/api/pin?username=n33miaz&repo=lumilivre-web&custom_title=WebSite&title_size=30&hide_border=true&title_color=762075&icon_color=762075&text_color=c9d1d9&bg_color=0d1117" />&nbsp;&nbsp;&nbsp;
+  </a>
+  <a href="https://github.com/n33miaz/lumilivre-app">
+    <img width="32%" src="https://github-stats-api-fmwm.onrender.com/api/pin?username=n33miaz&repo=lumilivre-app&custom_title=Application&title_size=30&hide_border=true&title_color=762075&icon_color=762075&text_color=c9d1d9&bg_color=0d1117" />&nbsp;&nbsp;&nbsp;
+  </a>
+  <a href="https://github.com/n33miaz/lumilivre-api">
+    <img width="32%" src="https://github-stats-api-fmwm.onrender.com/api/pin?username=n33miaz&repo=lumilivre-api&custom_title=API%20Restfull&title_size=30&hide_border=true&title_color=762075&icon_color=762075&text_color=c9d1d9&bg_color=0d1117" />
+  </a>
+</div>
+
+<br>
 
 <!-- card do last.fm -->
 <a href="https://www.last.fm/user/n33miaz">
