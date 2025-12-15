@@ -55,7 +55,10 @@
   <img src="https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED" />&nbsp;
   <img src="https://img.shields.io/badge/-DBeaver-0D1117?style=for-the-badge&logo=dbeaver&logoColor=FFFFFF" />&nbsp;
+  <img src="https://img.shields.io/badge/-Swagger-0D1117?style=for-the-badge&logo=swagger&logoColor=4000BF" />&nbsp;
   <img src="https://img.shields.io/badge/-Insomnia-0D1117?style=for-the-badge&logo=insomnia&logoColor=4000BF" />&nbsp;
+  <img src="https://img.shields.io/badge/-SoapUI-0D1117?style=for-the-badge&logo=soapui&logoColor=4000BF" />&nbsp;
+  <br>
   <img src="https://img.shields.io/badge/-VirtualBox-0D1117?style=for-the-badge&logo=virtualbox&logoColor=4000BF" />&nbsp;
   <img src="https://img.shields.io/badge/-Grafana-0D1117?style=for-the-badge&logo=grafana&logoColor=F46800" />&nbsp;
   <img src="https://img.shields.io/badge/-Zabbix-0D1117?style=for-the-badge&logo=zabbix&logoColor=D40000" />&nbsp;
