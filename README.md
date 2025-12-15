@@ -20,7 +20,7 @@
 
 <!-- animação de texto -->
 <a href="https://github.com/n33miaz">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=762075&size=35&center=true&vCenter=true&width=1000&lines=Olá,+me+chamo+Neemias,+tudo+tranquilo?;Hey,+my+name+is+Neemias,+how+are+you?;Trabalho+como+Desenvolvedor+Junior;Work+as+Junior+Developer;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=762075&size=35&center=true&vCenter=true&width=1000&lines=Hey,+my+name+is+Neemias,+how+are+you?;Im+FullStack+Developer;" />
 </a>
 
 <br>
