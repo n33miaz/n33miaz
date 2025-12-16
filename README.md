@@ -51,3 +51,10 @@
 
 <!-- pins dos repositórios -->
 <img width="100%" src="https://github-stats-api-fmwm.onrender.com/api/layout/pins?username=n33miaz&repo1=lumilivre-web&custom_title1=WebSite&repo2=lumilivre-app&custom_title2=Application&repo3=lumilivre-api&custom_title3=API%20Restfull&bg_color=0d1117&title_color=762075&text_color=c9d1d9&icon_color=762075&hide_border=true" />
+
+<!-- SOBRE A MINHA API GITHUB STATS -->
+<div align="center">
+  <a href="https://github.com/n33miaz/github-stats-api/blob/main/README.md">
+    <img src="https://github-stats-api-fmwm.onrender.com/api/badge?icon=github&label=About%20my%20Github%20Stats%20API%C2%AD&bg_color=0d1117&border_color=30363d&text_color=c9d1d9" height="35" alt="About my Github Stats API" />
+  </a>
+</div>
