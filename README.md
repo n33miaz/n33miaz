@@ -16,20 +16,25 @@
   <img src="https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1" />&nbsp;
   <img src="https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248" />&nbsp;
 </div>
+
 <br>
+
+<img  align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 
 <!-- animação de texto -->
-<a href="https://github.com/n33miaz">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=762075&size=35&center=true&vCenter=true&width=1000&lines=Hey,+my+name+is+Neemias,+how+are+you?;Im+FullStack+Developer;" />
-</a>
-
-<br>
+<img src="https://readme-typing-svg.herokuapp.com/?color=762075&size=35&center=true&vCenter=true&width=1000&lines=Hey,+my+name+is+Neemias,+how+are+you?;I'm+a+FullStack+Developer;" />
 
 <!-- contatos -->
 <div align="center">
-    <a href="https://raw.githack.com/n33miaz/n33miaz-links/main/redirect.html#linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
-    <a href="mailto:ncormino@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
-    <a href="https://raw.githack.com/n33miaz/n33miaz-links/main/redirect.html#instagram" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+    <a href="https://raw.githack.com/n33miaz/n33miaz-links/main/redirect.html#linkedin" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>&nbsp;
+    <a href="mailto:ncormino@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>&nbsp;
+    <a href="https://raw.githack.com/n33miaz/n33miaz-links/main/redirect.html#instagram" target="_blank">
+      <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    </a>
 </div>
 
 <br>
@@ -42,8 +47,6 @@
 
 <!-- stats e streak -->
 <img width="100%" src="https://github-stats-api-fmwm.onrender.com/api/layout/stats?username=n33miaz&bg_color=0d1117&title_color=762075&text_color=c9d1d9&icon_color=762075&hide_border=true" />
-
-<br>
 
 <!-- ferramentas -->
 <div align="center">
@@ -58,7 +61,12 @@
   <img src="https://img.shields.io/badge/-Grafana-0D1117?style=for-the-badge&logo=grafana&logoColor=F46800" />&nbsp;
   <img src="https://img.shields.io/badge/-Zabbix-0D1117?style=for-the-badge&logo=zabbix&logoColor=D40000" />&nbsp;
   <img src="https://img.shields.io/badge/-Prometheus-0D1117?style=for-the-badge&logo=prometheus&logoColor=D40000" />&nbsp; 
-</div>
+</div>&nbsp;
+
+<!-- dashboard de música -->
+<a href="https://www.last.fm/user/n33miaz">
+  <img width="100%" src="https://github-stats-api-fmwm.onrender.com/api/music?user=n33miaz&period=7day&hide_border=true&title_color=762075&icon_color=762075&bg_color=0d1117&text_color=c9d1d9" />
+</a>
 
 <!-- animação cobrinha -->
 <div align="center">
@@ -67,15 +75,7 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/n33miaz/n33miaz/output/github-contribution-grid-snake.svg" />
     <img src="https://raw.githubusercontent.com/n33miaz/n33miaz/output/github-contribution-grid-snake.svg" />
   </picture>
-</div>
-&nbsp;
+</div>&nbsp;
 
 <!-- pins dos repositórios -->
 <img width="100%" src="https://github-stats-api-fmwm.onrender.com/api/layout/pins?username=n33miaz&repo1=lumilivre-web&custom_title1=WebSite&repo2=lumilivre-app&custom_title2=Application&repo3=lumilivre-api&custom_title3=API%20Restfull&bg_color=0d1117&title_color=762075&text_color=c9d1d9&icon_color=762075&hide_border=true" />
-
-<br>
-
-<!-- card do lastfm -->
-<a href="https://www.last.fm/user/n33miaz">
-  <img width="100%" src="https://github-stats-api-fmwm.onrender.com/api/music?user=n33miaz&period=7day&hide_border=true&title_color=762075&icon_color=762075&bg_color=0d1117&text_color=c9d1d9" />
-</a>
