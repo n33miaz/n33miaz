@@ -54,7 +54,7 @@
 
 <!-- SOBRE A MINHA API GITHUB STATS -->
 <div align="center">
-  <a href="https://github.com/n33miaz/github-stats-api/blob/main/README.md">
+  <a href="https://gist.github.com/n33miaz/d8d22e4eb1ecee4b2531d3e7246752c0" target="_blank">
     <img src="https://github-stats-api-fmwm.onrender.com/api/badge?icon=github&label=About%20my%20Github%20Stats%20API%C2%AD&bg_color=0d1117&border_color=30363d&text_color=c9d1d9" height="35" alt="About my Github Stats API" />
   </a>
 </div>
