@@ -71,7 +71,7 @@
 &nbsp;
 
 <!-- pins dos repositórios -->
-<img width="100%" src="/api/layout/pins?username=n33miaz&repo1=lumilivre-web&custom_title1=WebSite&repo2=lumilivre-app&custom_title2=Application&repo3=lumilivre-api&custom_title3=API%20Restfull&bg_color=0d1117&title_color=762075&text_color=c9d1d9&icon_color=762075&hide_border=true" />
+<img width="100%" src="https://github-stats-api-fmwm.onrender.com/api/layout/pins?username=n33miaz&repo1=lumilivre-web&custom_title1=WebSite&repo2=lumilivre-app&custom_title2=Application&repo3=lumilivre-api&custom_title3=API%20Restfull&bg_color=0d1117&title_color=762075&text_color=c9d1d9&icon_color=762075&hide_border=true" />
 
 <br>
 
