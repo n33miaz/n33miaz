@@ -44,7 +44,7 @@
 <!-- animação cobrinha -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/n33miaz/n33miaz/output/github-contribution-grid-snake-dark.svg" />
-</div>&nbsp;
+</div>
 
 <!-- banner para os pins -->
 <img width="100%" src="https://github-stats-api-fmwm.onrender.com/api/banner?title=LumiLivre&subtitle=Library%20Management%20System&tag=(TCC)%20Bachelor%27s%20Thesis&title_color=762075&text_color=c9d1d9" />
