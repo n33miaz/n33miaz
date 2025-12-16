@@ -40,13 +40,8 @@
 <!-- langs -->
 <img width="100%" src="https://github-stats-api-fmwm.onrender.com/api/langs?username=n33miaz&bg_color=0d1117&title_color=762075&text_color=c9d1d9&hide_border=true" />
 
-<!-- cards -->
-<div align="center">
-  <!-- stats -->
-  <img width="49%" src="https://github-stats-api-fmwm.onrender.com/api/stats?username=n33miaz&bg_color=0d1117&title_color=762075&text_color=c9d1d9&icon_color=762075&hide_border=true" />&nbsp;&nbsp;&nbsp; 
-  <!-- streak -->
-  <img width="49%" src="https://github-stats-api-fmwm.onrender.com/api/streak?username=n33miaz&bg_color=0d1117&title_color=762075&text_color=c9d1d9&ring=762075&fire=762075&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&hide_border=true" />
-</div>
+<!-- stats e streak -->
+<img width="100%" src="https://github-stats-api-fmwm.onrender.com/api/layout/stats?username=n33miaz&bg_color=0d1117&title_color=762075&text_color=c9d1d9&icon_color=762075&hide_border=true" />
 
 <br>
 
@@ -75,22 +70,12 @@
 </div>
 &nbsp;
 
-<!-- principais projetos -->
-<div align="center">
-  <a href="https://github.com/n33miaz/lumilivre-web">
-    <img width="32%" src="https://github-stats-api-fmwm.onrender.com/api/pin?username=n33miaz&repo=lumilivre-web&custom_title=WebSite&title_size=30&hide_border=true&title_color=762075&icon_color=762075&text_color=c9d1d9&bg_color=0d1117" />&nbsp;&nbsp;&nbsp;
-  </a>
-  <a href="https://github.com/n33miaz/lumilivre-app">
-    <img width="32%" src="https://github-stats-api-fmwm.onrender.com/api/pin?username=n33miaz&repo=lumilivre-app&custom_title=Application&title_size=30&hide_border=true&title_color=762075&icon_color=762075&text_color=c9d1d9&bg_color=0d1117" />&nbsp;&nbsp;&nbsp;
-  </a>
-  <a href="https://github.com/n33miaz/lumilivre-api">
-    <img width="32%" src="https://github-stats-api-fmwm.onrender.com/api/pin?username=n33miaz&repo=lumilivre-api&custom_title=API%20Restfull&title_size=30&hide_border=true&title_color=762075&icon_color=762075&text_color=c9d1d9&bg_color=0d1117" />
-  </a>
-</div>
+<!-- pins dos repositórios -->
+<img width="100%" src="/api/layout/pins?username=n33miaz&repo1=lumilivre-web&custom_title1=WebSite&repo2=lumilivre-app&custom_title2=Application&repo3=lumilivre-api&custom_title3=API%20Restfull&bg_color=0d1117&title_color=762075&text_color=c9d1d9&icon_color=762075&hide_border=true" />
 
 <br>
 
-<!-- card do last.fm -->
+<!-- card do lastfm -->
 <a href="https://www.last.fm/user/n33miaz">
   <img width="100%" src="https://github-stats-api-fmwm.onrender.com/api/music?user=n33miaz&period=7day&hide_border=true&title_color=762075&icon_color=762075&bg_color=0d1117&text_color=c9d1d9" />
 </a>
