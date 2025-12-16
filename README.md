@@ -1,8 +1,8 @@
 <!-- tecnologias -->
 <div align="center">
-  <img src="https://github-stats-api-fmwm.onrender.com/api/layout/badges?icons=typescript,java,python,javascript,dart&labels=TypeScript,Java,Python%C2%AD,JavaScript,Dart%C2%AD,&bg_color=0d1117&border_color=30363d&text_color=c9d1d9&v=1" height="35" />
-  <img src="https://github-stats-api-fmwm.onrender.com/api/layout/badges?icons=react,spring,django,nodejs,flutter&labels=React,Spring,Django,Node%C2%AD,Flutter&bg_color=0d1117&border_color=30363d&text_color=c9d1d9&v=1" height="35" />
-  <img src="https://github-stats-api-fmwm.onrender.com/api/layout/badges?icons=mysql,postgresql,mongodb&labels=MySQL,PostgreSQL,MongoDB%C2%AD&bg_color=0d1117&border_color=30363d&text_color=c9d1d9&v=1" height="35" />
+  <img src="https://github-stats-api-fmwm.onrender.com/api/layout/badges?icons=typescript,java,python,javascript,dart&labels=TypeScript,Java,Python%C2%AD,JavaScript,Dart%C2%AD,&bg_color=0d1117&border_color=30363d&text_color=c9d1d9&v=1" />
+  <img src="https://github-stats-api-fmwm.onrender.com/api/layout/badges?icons=react,spring,django,nodejs,flutter&labels=React,Spring,Django,Node%C2%AD,Flutter&bg_color=0d1117&border_color=30363d&text_color=c9d1d9&v=1" />
+  <img src="https://github-stats-api-fmwm.onrender.com/api/layout/badges?icons=mysql,postgresql,mongodb&labels=MySQL,PostgreSQL,MongoDB%C2%AD&bg_color=0d1117&border_color=30363d&text_color=c9d1d9&v=1" />
 </div>
 
 <!-- animação de texto -->
@@ -32,8 +32,8 @@
 
 <!-- ferramentas -->
 <div align="center">
-  <img width="100%" src="https://github-stats-api-fmwm.onrender.com/api/layout/badges?icons=linux,docker,dbeaver,swagger,insomnia&labels=Linux,Docker,DBeaver,Swagger,Insomnia&bg_color=0d1117&border_color=30363d&text_color=c9d1d9&v=1" height="35" />
-  <img width="100%" src="https://github-stats-api-fmwm.onrender.com/api/layout/badges?icons=arduino,virtualbox,grafana,prometheus&labels=Arduino,VirtualBox,Grafana,Prometheus&bg_color=0d1117&border_color=30363d&text_color=c9d1d9&v=1" height="35" />
+  <img width="100%" src="https://github-stats-api-fmwm.onrender.com/api/layout/badges?icons=linux,docker,dbeaver,swagger,insomnia&labels=Linux,Docker,DBeaver,Swagger,Insomnia&bg_color=0d1117&border_color=30363d&text_color=c9d1d9&v=1" height="50" />
+  <img width="100%" src="https://github-stats-api-fmwm.onrender.com/api/layout/badges?icons=arduino,virtualbox,grafana,prometheus&labels=Arduino,VirtualBox,Grafana,Prometheus&bg_color=0d1117&border_color=30363d&text_color=c9d1d9&v=1" height="50" />
 </div>
 
 <!-- dashboard de música -->
