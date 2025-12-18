@@ -1,8 +1,8 @@
 <!-- tecnologias -->
 <div align="center">
-  <img src="https://github-stats-api-fmwm.onrender.com/api/layout/badges?icons=typescript,java,python,javascript,dart&labels=TypeScript,Java,Python%C2%AD,JavaScript,Dart%C2%AD,&bg_color=0d1117&border_color=30363d&text_color=c9d1d9&v=1" />
-  <img src="https://github-stats-api-fmwm.onrender.com/api/layout/badges?icons=react,spring,django,nodejs,flutter&labels=React,Spring,Django,Node%C2%AD,Flutter&bg_color=0d1117&border_color=30363d&text_color=c9d1d9&v=1" />
-  <img src="https://github-stats-api-fmwm.onrender.com/api/layout/badges?icons=mysql,postgresql,mongodb&labels=MySQL,PostgreSQL,MongoDB%C2%AD&bg_color=0d1117&border_color=30363d&text_color=c9d1d9&v=1" />
+  <img src="https://github-stats-api-fmwm.onrender.com/api/layout/badges?icons=typescript,java,python,javascript,dart&labels=TypeScript,Java,Python%C2%AD,JavaScript,Dart%C2%AD,&bg_color=0d1117&border_color=30363d&text_color=c9d1d9&" />
+  <img src="https://github-stats-api-fmwm.onrender.com/api/layout/badges?icons=react,spring,django,nodejs,flutter&labels=React,Spring,Django,Node%C2%AD,Flutter&bg_color=0d1117&border_color=30363d&text_color=c9d1d9" />
+  <img src="https://github-stats-api-fmwm.onrender.com/api/layout/badges?icons=mysql,postgresql,mongodb&labels=MySQL,PostgreSQL,MongoDB%C2%AD&bg_color=0d1117&border_color=30363d&text_color=c9d1d9" />
 </div>
 
 <!-- animação de texto -->
@@ -15,10 +15,10 @@
     <img src="https://github-stats-api-fmwm.onrender.com/api/badge?icon=linkedin&label=LinkedIn&bg_color=0d1117&border_color=30363d&text_color=c9d1d9" height="35" /></a>&nbsp;
   <!-- gmail -->
   <a href="mailto:ncormino@gmail.com" target="_blank">
-    <img src="https://github-stats-api-fmwm.onrender.com/api/badge?icon=gmail&label=Gmail&bg_color=0d1117&border_color=30363d&text_color=c9d1d9&v=1" height="35" /></a>&nbsp;
+    <img src="https://github-stats-api-fmwm.onrender.com/api/badge?icon=gmail&label=Gmail&bg_color=0d1117&border_color=30363d&text_color=c9d1d9" height="35" /></a>&nbsp;
   <!-- instagram -->
   <a href="https://raw.githack.com/n33miaz/n33miaz-links/main/redirect.html#instagram" target="_blank">
-    <img src="https://github-stats-api-fmwm.onrender.com/api/badge?icon=instagram&label=Instagram&bg_color=0d1117&border_color=30363d&text_color=c9d1d9&v=1" height="35" /></a>
+    <img src="https://github-stats-api-fmwm.onrender.com/api/badge?icon=instagram&label=Instagram&bg_color=0d1117&border_color=30363d&text_color=c9d1d9" height="35" /></a>
 </div>
 
 <!-- gráfico commits + tempo -->
@@ -32,8 +32,8 @@
 
 <!-- ferramentas -->
 <div align="center">
-  <img width="100%" src="https://github-stats-api-fmwm.onrender.com/api/layout/badges?icons=linux,docker,dbeaver,swagger,insomnia&labels=Linux,Docker,DBeaver,Swagger,Insomnia&bg_color=0d1117&border_color=30363d&text_color=c9d1d9&v=1" height="50" />
-  <img width="100%" src="https://github-stats-api-fmwm.onrender.com/api/layout/badges?icons=arduino,virtualbox,grafana,prometheus&labels=Arduino,VirtualBox,Grafana,Prometheus&bg_color=0d1117&border_color=30363d&text_color=c9d1d9&v=1" height="50" />
+  <img width="100%" src="https://github-stats-api-fmwm.onrender.com/api/layout/badges?icons=linux,docker,dbeaver,swagger,insomnia&labels=Linux,Docker,DBeaver,Swagger,Insomnia&bg_color=0d1117&border_color=30363d&text_color=c9d1d9" height="50" />
+  <img width="100%" src="https://github-stats-api-fmwm.onrender.com/api/layout/badges?icons=arduino,virtualbox,grafana,prometheus&labels=Arduino,VirtualBox,Grafana,Prometheus&bg_color=0d1117&border_color=30363d&text_color=c9d1d9" height="50" />
 </div>
 
 <!-- dashboard de música -->
@@ -50,7 +50,7 @@
 <img width="100%" src="https://github-stats-api-fmwm.onrender.com/api/banner?title=LumiLivre&subtitle=Library%20Management%20System&tag=(TCC)%20Bachelor%27s%20Thesis&title_color=762075&text_color=c9d1d9" />
 
 <!-- pins dos repositórios -->
-<img width="100%" src="https://github-stats-api-fmwm.onrender.com/api/layout/pins?username=n33miaz&repo1=lumilivre-web&custom_title1=WebSite&repo2=lumilivre-app&custom_title2=Application&repo3=lumilivre-api&custom_title3=API%20Restfull&bg_color=0d1117&title_color=762075&text_color=c9d1d9&icon_color=762075&hide_border=true&v=1" />
+<img width="100%" src="https://github-stats-api-fmwm.onrender.com/api/layout/pins?username=n33miaz&repo1=lumilivre-web&custom_title1=WebSite&repo2=lumilivre-app&custom_title2=Application&repo3=lumilivre-api&custom_title3=API%20Restfull&bg_color=0d1117&title_color=762075&text_color=c9d1d9&icon_color=762075&hide_border=true" />
 
 <!-- SOBRE A MINHA API GITHUB STATS -->
 <div align="center">
