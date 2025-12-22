@@ -9,18 +9,18 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=762075&size=35&center=true&vCenter=true&width=1000&lines=Hey,+my+name+is+Neemias,+how+are+you?;I'm+a+FullStack+Developer;" />
   <br/>
   <!-- Badges -->
-  <a href="https://www.linkedin.com/in/seu-perfil" target="_blank"><img src="https://github-stats-api-fmwm.onrender.com/api/badge?icon=linkedin&label=LinkedIn&bg_color=0d1117&border_color=30363d&text_color=c9d1d9" height="35" /></a>
-  <a href="mailto:ncormino@gmail.com" target="_blank"><img src="https://github-stats-api-fmwm.onrender.com/api/badge?icon=gmail&label=Gmail&bg_color=0d1117&border_color=30363d&text_color=c9d1d9" height="35" /></a>
-  <a href="https://instagram.com/seu-perfil" target="_blank"><img src="https://github-stats-api-fmwm.onrender.com/api/badge?icon=instagram&label=Instagram&bg_color=0d1117&border_color=30363d&text_color=c9d1d9" height="35" /></a>
+  <a href="https://n33miaz.github.io/n33miaz-links/#linkedin"><img src="https://github-stats-api-fmwm.onrender.com/api/badge?icon=linkedin&label=LinkedIn&bg_color=0d1117&border_color=30363d&text_color=c9d1d9" height="35" /></a>
+  <a href="https://n33miaz.github.io/n33miaz-links/#gmail"><img src="https://github-stats-api-fmwm.onrender.com/api/badge?icon=gmail&label=Gmail&bg_color=0d1117&border_color=30363d&text_color=c9d1d9" height="35" /></a>
+  <a href="https://n33miaz.github.io/n33miaz-links/#instagram"><img src="https://github-stats-api-fmwm.onrender.com/api/badge?icon=instagram&label=Instagram&bg_color=0d1117&border_color=30363d&text_color=c9d1d9" height="35" /></a>
 </div>
 
 <!-- GRÁFICOS -->
 <div align="center">
-  <!-- Langs -->
+  <!-- Contribuitions -->
   <img width="100%" src="https://github-stats-api-fmwm.onrender.com/api/graph?username=n33miaz&bg_color=0d1117&title_color=762075&text_color=c9d1d9&icon_color=762075&hide_border=true&v=1" />
   
-  <!-- Contribuitions -->
-  <a href="https://wakatime.com/@n33miaz" target="_blank">
+  <!-- Langs -->
+  <a href="https://n33miaz.github.io/n33miaz-links/#wakatime">
     <img width="100%" src="https://github-stats-api-fmwm.onrender.com/api/langs?username=n33miaz&bg_color=0d1117&title_color=762075&text_color=c9d1d9&hide_border=true&v=5" />
   </a>
 
@@ -35,7 +35,7 @@
   <img width="100%" src="https://github-stats-api-fmwm.onrender.com/api/layout/badges?icons=arduino,virtualbox,grafana,prometheus&labels=Arduino,VirtualBox,Grafana,Prometheus&bg_color=0d1117&border_color=30363d&text_color=c9d1d9&v=1" height="50" />
   
   <!-- Dashboard Music -->
-  <a href="https://www.last.fm/user/n33miaz" target="_blank">
+  <a href="https://n33miaz.github.io/n33miaz-links/#lastfm">
     <img width="100%" src="https://github-stats-api-fmwm.onrender.com/api/music?user=n33miaz&period=7day&hide_border=true&title_color=762075&icon_color=762075&bg_color=0d1117&text_color=c9d1d9" />
   </a>
 </div>
@@ -48,15 +48,15 @@
 <!-- BANNER + PINS -->
 <div align="center">
   <!-- Banner -->
-  <a href="https://github.com/TCC-DS-2025" target="_blank"><img width="100%" src="https://github-stats-api-fmwm.onrender.com/api/banner?title=LumiLivre&subtitle=Library%20Management%20System&tag=(TCC)%20Bachelor%27s%20Thesis&title_color=762075&text_color=c9d1d9&v=1" /></a>
+  <a href="https://n33miaz.github.io/n33miaz-links/#lumitcc"><img width="100%" src="https://github-stats-api-fmwm.onrender.com/api/banner?title=LumiLivre&subtitle=Library%20Management%20System&tag=(TCC)%20Bachelor%27s%20Thesis&title_color=762075&text_color=c9d1d9&v=1" /></a>
 
   <!-- Pins-->
-  <a href="https://github.com/n33miaz/lumilivre-web" target="_blank"><img src="https://github-stats-api-fmwm.onrender.com/api/pin?username=n33miaz&repo=lumilivre-web&custom_title=WebSite&bg_color=0d1117&title_color=762075&text_color=c9d1d9&icon_color=762075&hide_border=true&min_width=280" height="140" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/n33miaz/lumilivre-app" target="_blank"><img src="https://github-stats-api-fmwm.onrender.com/api/pin?username=n33miaz&repo=lumilivre-app&custom_title=Application&bg_color=0d1117&title_color=762075&text_color=c9d1d9&icon_color=762075&hide_border=true&min_width=280" height="140" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/n33miaz/lumilivre-api" target="_blank"><img src="https://github-stats-api-fmwm.onrender.com/api/pin?username=n33miaz&repo=lumilivre-api&custom_title=API%20Restfull&bg_color=0d1117&title_color=762075&text_color=c9d1d9&icon_color=762075&hide_border=true&min_width=280" height="140" /></a>
+  <a href="https://n33miaz.github.io/n33miaz-links/#lumiweb"><img src="https://github-stats-api-fmwm.onrender.com/api/pin?username=n33miaz&repo=lumilivre-web&custom_title=WebSite&bg_color=0d1117&title_color=762075&text_color=c9d1d9&icon_color=762075&hide_border=true&min_width=280" height="140" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://n33miaz.github.io/n33miaz-links/#lumiapp"><img src="https://github-stats-api-fmwm.onrender.com/api/pin?username=n33miaz&repo=lumilivre-app&custom_title=Application&bg_color=0d1117&title_color=762075&text_color=c9d1d9&icon_color=762075&hide_border=true&min_width=280" height="140" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://n33miaz.github.io/n33miaz-links/#lumiapi"><img src="https://github-stats-api-fmwm.onrender.com/api/pin?username=n33miaz&repo=lumilivre-api&custom_title=API%20Restfull&bg_color=0d1117&title_color=762075&text_color=c9d1d9&icon_color=762075&hide_border=true&min_width=280" height="140" /></a>
 </div>&nbsp;
 
 <!-- BADGE README SOBRE O GITHUB STATS API -->
 <div align="center">
-  <a href="https://gist.github.com/n33miaz/d8d22e4eb1ecee4b2531d3e7246752c0" target="_blank"><img src="https://github-stats-api-fmwm.onrender.com/api/badge?icon=github&label=About%20my%20Github%20Stats%20API%C2%AD&bg_color=0d1117&border_color=30363d&text_color=c9d1d9" height="35" alt="About my Github Stats API" /></a>
+  <a href="https://n33miaz.github.io/n33miaz-links/#readmeapi"><img src="https://github-stats-api-fmwm.onrender.com/api/badge?icon=github&label=About%20my%20Github%20Stats%20API%C2%AD&bg_color=0d1117&border_color=30363d&text_color=c9d1d9" height="35" alt="About my Github Stats API" /></a>
 </div>
