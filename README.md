@@ -1,6 +1,6 @@
 <!-- BADGES TECNOLOGIAS + TYPING SVG + BAGDES CONTATOS -->
 <div align="center">
-  <img src="https://github-stats-api-fmwm.onrender.com/api/layout/badges?icons=typescript,java,python,javascript,dart&labels=TypeScript,Java,Python%C2%AD,JavaScript,Dart%C2%AD,&bg_color=0d1117&border_color=30363d&text_color=c9d1d9&" />
+  <img src="https://github-stats-api-fmwm.onrender.com/api/layout/badges?icons=typescript,java,python,javascript,dart&labels=TypeScript,Java,Python%C2%AD,JavaScript,Dart%C2%AD,&bg_color=0d1117&border_color=30363d&text_color=c9d1d9" />
   <img src="https://github-stats-api-fmwm.onrender.com/api/layout/badges?icons=react,spring,django,nodejs,flutter&labels=React,Spring,Django,Node%C2%AD,Flutter&bg_color=0d1117&border_color=30363d&text_color=c9d1d9" />
   <img src="https://github-stats-api-fmwm.onrender.com/api/layout/badges?icons=mysql,postgresql,mongodb&labels=MySQL,PostgreSQL,MongoDB%C2%AD%C2%AD&bg_color=0d1117&border_color=30363d&text_color=c9d1d9" />
   <br/>
@@ -38,5 +38,5 @@
 
 <!-- BADGE README SOBRE O GITHUB STATS API -->
 <div align="center">
-  <a href="https://gist.github.com/n33miaz/d8d22e4eb1ecee4b2531d3e7246752c0" target="_blank"><img src="https://github-stats-api-fmwm.onrender.com/api/badge?icon=github&label=About%20my%20Github%20Stats%20API%C2%AD&bg_color=0d1117&border_color=30363d&text_color=c9d1d9" height="35" alt="About my Github Stats API" /></a>
+  <img src="https://github-stats-api-fmwm.onrender.com/api/badge?icon=github&label=About%20my%20Github%20Stats%20API%C2%AD&bg_color=0d1117&border_color=30363d&text_color=c9d1d9&link=https://gist.github.com/n33miaz/d8d22e4eb1ecee4b2531d3e7246752c0" height="35" alt="About my Github Stats API" />
 </div>
