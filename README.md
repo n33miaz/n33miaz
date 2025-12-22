@@ -51,9 +51,9 @@
   <a href="https://github.com/TCC-DS-2025" target="_blank"><img width="100%" src="https://github-stats-api-fmwm.onrender.com/api/banner?title=LumiLivre&subtitle=Library%20Management%20System&tag=(TCC)%20Bachelor%27s%20Thesis&title_color=762075&text_color=c9d1d9&v=1" /></a>
 
   <!-- Pins-->
-  <a href="https://github.com/n33miaz/lumilivre-web" target="_blank"><img src="https://github-stats-api-fmwm.onrender.com/api/pin?username=n33miaz&repo=lumilivre-web&custom_title=WebSite&bg_color=0d1117&title_color=762075&text_color=c9d1d9&icon_color=762075&hide_border=true&min_width=300" height="140" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/n33miaz/lumilivre-app" target="_blank"><img src="https://github-stats-api-fmwm.onrender.com/api/pin?username=n33miaz&repo=lumilivre-app&custom_title=Application&bg_color=0d1117&title_color=762075&text_color=c9d1d9&icon_color=762075&hide_border=true&min_width=300" height="140" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/n33miaz/lumilivre-api" target="_blank"><img src="https://github-stats-api-fmwm.onrender.com/api/pin?username=n33miaz&repo=lumilivre-api&custom_title=API%20Restfull&bg_color=0d1117&title_color=762075&text_color=c9d1d9&icon_color=762075&hide_border=true&min_width=300" height="140" /></a>
+  <a href="https://github.com/n33miaz/lumilivre-web" target="_blank"><img src="https://github-stats-api-fmwm.onrender.com/api/pin?username=n33miaz&repo=lumilivre-web&custom_title=WebSite&bg_color=0d1117&title_color=762075&text_color=c9d1d9&icon_color=762075&hide_border=true&min_width=290" height="140" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/n33miaz/lumilivre-app" target="_blank"><img src="https://github-stats-api-fmwm.onrender.com/api/pin?username=n33miaz&repo=lumilivre-app&custom_title=Application&bg_color=0d1117&title_color=762075&text_color=c9d1d9&icon_color=762075&hide_border=true&min_width=290" height="140" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/n33miaz/lumilivre-api" target="_blank"><img src="https://github-stats-api-fmwm.onrender.com/api/pin?username=n33miaz&repo=lumilivre-api&custom_title=API%20Restfull&bg_color=0d1117&title_color=762075&text_color=c9d1d9&icon_color=762075&hide_border=true&min_width=290" height="140" /></a>
 </div>&nbsp;
 
 <!-- BADGE README SOBRE O GITHUB STATS API -->
