@@ -6,23 +6,23 @@
   <br/>
   <img src="https://readme-typing-svg.herokuapp.com/?color=762075&size=35&center=true&vCenter=true&width=1000&lines=Hey,+my+name+is+Neemias,+how+are+you?;I'm+a+FullStack+Developer;" />
   <br/>
-  <a href="https://raw.githack.com/n33miaz/n33miaz-links/main/redirect.html#linkedin" target="_blank"><img src="https://github-stats-api-fmwm.onrender.com/api/badge?icon=linkedin&label=LinkedIn&bg_color=0d1117&border_color=30363d&text_color=c9d1d9" height="35" /></a>
-  <a href="mailto:ncormino@gmail.com" target="_blank"><img src="https://github-stats-api-fmwm.onrender.com/api/badge?icon=gmail&label=Gmail&bg_color=0d1117&border_color=30363d&text_color=c9d1d9" height="35" /></a>
-  <a href="https://raw.githack.com/n33miaz/n33miaz-links/main/redirect.html#instagram" target="_blank"><img src="https://github-stats-api-fmwm.onrender.com/api/badge?icon=instagram&label=Instagram&bg_color=0d1117&border_color=30363d&text_color=c9d1d9" height="35" /></a>
+  <img src="https://github-stats-api-fmwm.onrender.com/api/badge?icon=linkedin&label=LinkedIn&bg_color=0d1117&border_color=30363d&text_color=c9d1d9" height="35" />
+  <img src="https://github-stats-api-fmwm.onrender.com/api/badge?icon=gmail&label=Gmail&bg_color=0d1117&border_color=30363d&text_color=c9d1d9" height="35" />
+  <img src="https://github-stats-api-fmwm.onrender.com/api/badge?icon=instagram&label=Instagram&bg_color=0d1117&border_color=30363d&text_color=c9d1d9" height="35" />
 </div>
 
 <!-- GRÁFICOS -->
 <div align="center">
-  <img width="100%" src="https://github-stats-api-fmwm.onrender.com/api/graph?username=n33miaz&bg_color=0d1117&title_color=762075&text_color=c9d1d9&icon_color=762075&hide_border=true" />
-  <img width="100%" src="https://github-stats-api-fmwm.onrender.com/api/langs?username=n33miaz&bg_color=0d1117&title_color=762075&text_color=c9d1d9&hide_border=true" />
-  <img width="100%" src="https://github-stats-api-fmwm.onrender.com/api/layout/stats?username=n33miaz&bg_color=0d1117&title_color=762075&text_color=c9d1d9&icon_color=762075&hide_border=true" />
+  <img width="100%" src="https://github-stats-api-fmwm.onrender.com/api/graph?username=n33miaz&bg_color=0d1117&title_color=762075&text_color=c9d1d9&icon_color=762075&hide_border=true&v=1" />
+  <img width="100%" src="https://github-stats-api-fmwm.onrender.com/api/langs?username=n33miaz&bg_color=0d1117&title_color=762075&text_color=c9d1d9&hide_border=true&v=1" />
+  <img width="100%" src="https://github-stats-api-fmwm.onrender.com/api/layout/stats?username=n33miaz&bg_color=0d1117&title_color=762075&text_color=c9d1d9&icon_color=762075&hide_border=true&v=1" />
 </div>&nbsp;
 
 <!-- BADGES FERRAMENTAS + DASHBOARD DE MÚSICA -->
 <div align="center">
   <img width="100%" src="https://github-stats-api-fmwm.onrender.com/api/layout/badges?icons=linux,docker,dbeaver,swagger,insomnia&labels=Linux,Docker,DBeaver,Swagger,Insomnia&bg_color=0d1117&border_color=30363d&text_color=c9d1d9" height="50" />
   <img width="100%" src="https://github-stats-api-fmwm.onrender.com/api/layout/badges?icons=arduino,virtualbox,grafana,prometheus&labels=Arduino,VirtualBox,Grafana,Prometheus&bg_color=0d1117&border_color=30363d&text_color=c9d1d9" height="50" />
-  <a href="https://www.last.fm/user/n33miaz"><img width="100%" src="https://github-stats-api-fmwm.onrender.com/api/music?user=n33miaz&period=7day&hide_border=true&title_color=762075&icon_color=762075&bg_color=0d1117&text_color=c9d1d9" /></a>
+  <img width="100%" src="https://github-stats-api-fmwm.onrender.com/api/music?user=n33miaz&period=7day&hide_border=true&title_color=762075&icon_color=762075&bg_color=0d1117&text_color=c9d1d9" />
 </div>
 
 <!-- SNAKE -->
