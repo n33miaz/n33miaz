@@ -34,7 +34,7 @@
 <div align="center">
   <img width="100%" src="https://github-stats-api-fmwm.onrender.com/api/banner?title=LumiLivre&subtitle=Library%20Management%20System&tag=(TCC)%20Bachelor%27s%20Thesis&title_color=762075&text_color=c9d1d9" />
   <img width="100%" src="https://github-stats-api-fmwm.onrender.com/api/layout/pins?username=n33miaz&repo1=lumilivre-web&custom_title1=WebSite&repo2=lumilivre-app&custom_title2=Application&repo3=lumilivre-api&custom_title3=API%20Restfull&bg_color=0d1117&title_color=762075&text_color=c9d1d9&icon_color=762075&hide_border=true" />
-</div>
+</div>&nbsp;
 
 <!-- BADGE README SOBRE O GITHUB STATS API -->
 <div align="center">
