@@ -1,0 +1,32 @@
+name: Force Update Readme Images
+
+on:
+  schedule:
+    - cron: '0 5 * * *' 
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Update Timestamp in README
+        run: |
+          TIMESTAMP=$(date +%s)
+          
+          sed -i "s/&t=[0-9]*/&t=$TIMESTAMP/g" README.md
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          if [[ -n $(git status -s) ]]; then
+            git add README.md
+            git commit -m "chore: force update stats images timestamp"
+            git push
+          else
+            echo "No changes to commit"
+          fi
