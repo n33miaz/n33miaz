@@ -16,12 +16,12 @@
   <img width="100%" src="https://github-stats-api-fmwm.onrender.com/api/graph?username=n33miaz&bg_color=0d1117&title_color=762075&text_color=c9d1d9&icon_color=762075&hide_border=true&v=1" />
   <img width="100%" src="https://github-stats-api-fmwm.onrender.com/api/langs?username=n33miaz&bg_color=0d1117&title_color=762075&text_color=c9d1d9&hide_border=true&v=5" />
   <img width="100%" src="https://github-stats-api-fmwm.onrender.com/api/layout/stats?username=n33miaz&bg_color=0d1117&title_color=762075&text_color=c9d1d9&icon_color=762075&hide_border=true&v=1" />
-</div>&nbsp;
+</div>
 
 <!-- BADGES FERRAMENTAS + DASHBOARD DE MÚSICA -->
 <div align="center">
   <img width="100%" src="https://github-stats-api-fmwm.onrender.com/api/layout/badges?icons=linux,docker,dbeaver,swagger,insomnia&labels=Linux,Docker,DBeaver,Swagger,Insomnia&bg_color=0d1117&border_color=30363d&text_color=c9d1d9&v=1" height="50" />
-  <img width="100%" src="https://github-stats-api-fmwm.onrender.com/api/layout/badges?icons=arduino,virtualbox,grafana,prometheus&labels=Arduino,VirtualBox,Grafana,Prometheus&bg_color=0d1117&border_color=30363d&text_color=c9d1d9&v=1" height="50" />&nbsp;
+  <img width="100%" src="https://github-stats-api-fmwm.onrender.com/api/layout/badges?icons=arduino,virtualbox,grafana,prometheus&labels=Arduino,VirtualBox,Grafana,Prometheus&bg_color=0d1117&border_color=30363d&text_color=c9d1d9&v=1" height="50" />
   <img width="100%" src="https://github-stats-api-fmwm.onrender.com/api/music?user=n33miaz&period=7day&hide_border=true&title_color=762075&icon_color=762075&bg_color=0d1117&text_color=c9d1d9" />
 </div>
 
