@@ -36,7 +36,7 @@
   
   <!-- Dashboard Music -->
   <a href="https://n33miaz.github.io/n33miaz-links/#lastfm">
-    <img width="100%" src="https://github-stats-api.duckdns.org/api/music?user=n33miaz&period=7day&hide_border=true&title_color=762075&icon_color=762075&bg_color=0d1117&text_color=c9d1d9&v=1" />
+    <img width="100%" src="https://github-stats-api.duckdns.org/api/music?user=n33miaz&period=7day&hide_border=true&title_color=762075&icon_color=762075&bg_color=0d1117&text_color=c9d1d9&v=2" />
   </a>
 </div>
 
