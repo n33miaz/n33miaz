@@ -9,9 +9,9 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=762075&size=35&center=true&vCenter=true&width=1000&lines=Hey,+my+name+is+Neemias,+how+are+you?;I'm+a+FullStack+Developer;" />
   <br/>
   <!-- Badges -->
-  <a href="https://n33miaz.github.io/n33miaz-links/#linkedin"><img src="https://github-stats-api.duckdns.org/api/badge?icon=linkedin&label=LinkedIn&bg_color=0d1117&border_color=30363d&text_color=c9d1d9" height="35" /></a>
-  <a href="https://n33miaz.github.io/n33miaz-links/#gmail"><img src="https://github-stats-api.duckdns.org/api/badge?icon=gmail&label=Gmail&bg_color=0d1117&border_color=30363d&text_color=c9d1d9" height="35" /></a>
-  <a href="https://n33miaz.github.io/n33miaz-links/#instagram"><img src="https://github-stats-api.duckdns.org/api/badge?icon=instagram&label=Instagram&bg_color=0d1117&border_color=30363d&text_color=c9d1d9" height="35" /></a>
+  <a href="https://n33miaz.github.io/n33miaz-links/#linkedin"><img src="https://github-stats-api-onkr.onrender.com/api/badge?icon=linkedin&label=LinkedIn&bg_color=0d1117&border_color=30363d&text_color=c9d1d9" height="35" /></a>
+  <a href="https://n33miaz.github.io/n33miaz-links/#gmail"><img src="https://github-stats-api-onkr.onrender.com/api/badge?icon=gmail&label=Gmail&bg_color=0d1117&border_color=30363d&text_color=c9d1d9" height="35" /></a>
+  <a href="https://n33miaz.github.io/n33miaz-links/#instagram"><img src="https://github-stats-api-onkr.onrender.com/api/badge?icon=instagram&label=Instagram&bg_color=0d1117&border_color=30363d&text_color=c9d1d9" height="35" /></a>
 </div>
 
 <!-- GRÁFICOS -->
@@ -56,5 +56,5 @@
 
 <!-- BADGE README SOBRE O GITHUB STATS API -->
 <div align="center">
-  <a href="https://n33miaz.github.io/n33miaz-links/#readmeapi"><img src="https://github-stats-api.duckdns.org/api/badge?icon=github&label=About%20my%20Github%20Stats%20API%C2%AD&bg_color=0d1117&border_color=30363d&text_color=c9d1d9" height="35" alt="About my Github Stats API" /></a>
+  <a href="https://n33miaz.github.io/n33miaz-links/#readmeapi"><img src="https://github-stats-api-onkr.onrender.com/api/badge?icon=github&label=About%20my%20Github%20Stats%20API%C2%AD&bg_color=0d1117&border_color=30363d&text_color=c9d1d9" height="35" alt="About my Github Stats API" /></a>
 </div>
