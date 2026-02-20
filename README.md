@@ -1,9 +1,9 @@
 <!-- BADGES TECNOLOGIAS + TYPING SVG + BAGDES CONTATOS -->
 <div align="center">
   <!-- Badges -->
-  <img src="https://github-stats-api-onkr.onrender.com/api/layout/badges?icons=typescript,java,python,javascript,dart&labels=TypeScript,Java,Python%C2%AD,JavaScript,Dart%C2%AD,&bg_color=0d1117&border_color=30363d&text_color=c9d1d9&v=1" />
-  <img src="https://github-stats-api-onkr.onrender.com/api/layout/badges?icons=react,spring,django,nodejs,flutter&labels=React,Spring,Django,Node%C2%AD,Flutter&bg_color=0d1117&border_color=30363d&text_color=c9d1d9&v=1" />
-  <img src="https://github-stats-api-onkr.onrender.com/api/layout/badges?icons=mysql,postgresql,mongodb&labels=MySQL,PostgreSQL,MongoDB%C2%AD%C2%AD&bg_color=0d1117&border_color=30363d&text_color=c9d1d9&v=1" />
+  <img src="https://github-stats-api-onkr.onrender.com/api/layout/badges?icons=typescript,java,python,javascript,dart,csharp&labels=TypeScript,Java,Python%C2%AD,JavaScript,Dart%C2%AD,CSharp&bg_color=0d1117&border_color=30363d&text_color=c9d1d9&v=1" />
+  <img src="https://github-stats-api-onkr.onrender.com/api/layout/badges?icons=react,spring,django,nodejs,flutter,dotnet&labels=React,Spring,Django,Node%C2%AD,Flutter,.Net&bg_color=0d1117&border_color=30363d&text_color=c9d1d9&v=1" />
+  <img src="https://github-stats-api-onkr.onrender.com/api/layout/badges?icons=ssms,mysql,postgresql,mongodb&labels=SSMS,MySQL,PostgreSQL,MongoDB%C2%AD%C2%AD&bg_color=0d1117&border_color=30363d&text_color=c9d1d9&v=1" />
   <br/>
   <!-- Typing -->
   <img src="https://readme-typing-svg.herokuapp.com/?color=762075&size=35&center=true&vCenter=true&width=1000&lines=Hey,+my+name+is+Neemias,+how+are+you?;I'm+a+FullStack+Developer;" />
@@ -29,7 +29,7 @@
 <!-- BADGES FERRAMENTAS + DASHBOARD DE MÚSICA -->
 <div align="center">
   <!-- Badges -->
-  <img width="100%" src="https://github-stats-api-onkr.onrender.com/api/layout/badges?icons=linux,docker,dbeaver,swagger,insomnia&labels=Linux,Docker,DBeaver,Swagger,Insomnia&bg_color=0d1117&border_color=30363d&text_color=c9d1d9&v=1" height="50" />
+  <img width="100%" src="https://github-stats-api-onkr.onrender.com/api/layout/badges?icons=linux,docker,dbeaver,swagger,postman&labels=Linux,Docker,DBeaver,Swagger,Postman&bg_color=0d1117&border_color=30363d&text_color=c9d1d9&v=1" height="50" />
   <img width="100%" src="https://github-stats-api-onkr.onrender.com/api/layout/badges?icons=arduino,virtualbox,grafana,prometheus&labels=Arduino,VirtualBox,Grafana,Prometheus&bg_color=0d1117&border_color=30363d&text_color=c9d1d9&v=1" height="50" />
   
   <!-- Dashboard Music -->
