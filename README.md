@@ -17,7 +17,7 @@
 <!-- GRÁFICOS -->
 <div align="center">
   <!-- Contribuitions -->
-  <img width="100%" src="https://github-stats-api-rfi2.onrender.com/api/graph?username=n33miaz&bg_color=0d1117&title_color=762075&text_color=c9d1d9&icon_color=762075&hide_border=true&v=5" />
+  <!-- img width="100%" src="https://github-stats-api-rfi2.onrender.com/api/graph?username=n33miaz&bg_color=0d1117&title_color=762075&text_color=c9d1d9&icon_color=762075&hide_border=true&v=5" /-->
   <!-- Langs -->
   <a href="https://n33miaz.github.io/n33miaz-links/#wakatime">
     <img width="100%" src="https://github-stats-api-rfi2.onrender.com/api/langs?username=n33miaz&bg_color=0d1117&title_color=762075&text_color=c9d1d9&hide_border=true&v=8" />
